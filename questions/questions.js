@@ -13,3 +13,7 @@ console.log(fuctorial(4));
 import { firstReverse } from '../answers/4_reverse/script.js';
 
 console.log(firstReverse("hello world"));
+
+import { findIntersection } from '../answers/findintersection/script.js';
+
+console.log(findIntersection(["1, 3, 4, 7, 13","1, 2, 4, 13, 15"]))
